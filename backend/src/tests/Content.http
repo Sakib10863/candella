@@ -1,0 +1,43 @@
+GET http://localhost:8080/api/v2/c/featured/all
+Accept: application/json
+
+###
+DELETE http://localhost:8080/api/v2/c/61b38804621f5a0350659c36
+Content-Type: application/json
+token: {{token}}
+
+{
+  "title": "Second Post Updated title",
+  "alternateNames": [
+    "Alternate 1"
+  ],
+  "description": "Second Post Description Updated",
+  "category": "61afda37f402ce41f5d21bec",
+  "genre": [
+    "61b33473f5d38171077b0ec0",
+    "61b115a756a462337f5ecd5f"
+  ]
+}
+
+###
+GET http://localhost:8080/api/v2/c
+Accept: application/json
+
+###
+POST http://localhost:8080/api/v2/c
+Content-Type: application/json
+token: {{scott}}
+
+{
+  "title": "bal",
+  "description": "first post",
+  "genre": [
+    "61b33474f5d38171077b0ec3",
+    "61b33474f5d38171077b0ecf",
+    "61b33474f5d38171077b0ec6"
+  ],
+  "category": "61afda37f402ce41f5d21bec",
+  "coverImage": "http://localhost:8080/uploads/1640261766072.jpg"
+}
+
+###

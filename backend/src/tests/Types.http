@@ -1,0 +1,177 @@
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Wedding",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Event",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Portrait",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Product",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Fine Art",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Fashion",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Architectural",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Travel",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Aerial",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Lifestyle",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Pet",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Nature",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Night",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Monochromatic",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Digital Art",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Painting",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Art",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Abstract",
+  "category": "{{category}}"
+}
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "City",
+  "category": "{{category}}"
+}
+
+###
+POST http://localhost:8080/api/v2/types/genre
+Content-Type: application/json
+
+{
+  "name": "Street",
+  "category": "{{category}}"
+}
